@@ -1,2 +1,1 @@
-fbhackathon
-===========
+This is an Android application to identify events at a particular place  and a particular time. Other than auto-detecting the user's current location and suggesting the events going around him, it also allows you to add an event to your phone calendar.
